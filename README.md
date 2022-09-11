@@ -7,5 +7,5 @@
  4. Used https://emojipedia.org/ for emojis in html page. 
  5. learned about https://httpbin.org/get to get information for a form when clicking on submit.
  
-
+Thanks to freeCodeCamp.org channel on youtube. 
 
